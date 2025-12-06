@@ -3,7 +3,9 @@ title: dabl
 plugins:
   - jekyll-remote-theme
 
-remote_theme: "jekyll/minima"
+# pinning to a specific commit on master branch to avoid breaking
+# this is suggested by maintainers of the theme, I pick the latest one.
+remote_theme: "jekyll/minima@bf9ef98"
 
 minima:
   skin: solarized
