@@ -1,3 +1,4 @@
-title: Mon Blog
-description: Un site Jekyll hébergé sur GitHub Pages
+title: dabl
 theme: minima
+minima:
+  skin:solarized
